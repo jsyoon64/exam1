@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        /*
         final Button button = (Button) findViewById(R.id.button1);
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 submitOrder(v);
             }
         });
+        */
     }
 
     /**
